@@ -1,8 +1,8 @@
 # Content-Based Museum Painting Retrieval
-
 ## Technical Report
 [Museum Query Retrieval with Classic Computer Vision](https://www.overleaf.com/read/dszystwqbbwc)
 
+![Alt text](/week1/matches.png "")
 
 ## Week 1: Histograms
 1. Develop image query system. Match query paintings with similar ones in database.
